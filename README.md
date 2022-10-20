@@ -131,11 +131,11 @@ paypal-sbx-*:
 
 | Name  | Alias | Domain name  | Target domain | Salesforce organization | 
 | ---- | --- | ---- | --- | --- |
-| Development  | **dev**  | `payments-dev.company.com` | `d3j9oc9iqgb0s0.cloudfront.net`| **bdlq_dev**
-| Sandbox  | **sbx**  | `payments-sbx.company.com` | `d3n169ndv837yp.cloudfront.net`| **bdlq_s07**
-| Playground  | **sbx**  | `payments-play.company.com` | `d39068ay3fcpjh.cloudfront.net`| **bdlq_s05**
-| Staging  | **stg**  | `payments-stg.company.com` | `d3nhb9clyaxhge.cloudfront.net`| **bdlq_stg**
-| Production  | **prd**  | `payments-prd.company.com` | `d12fnv99r0vg2i.cloudfront.net`| **bdlq_prd**
+| Development  | **dev**  | `payments-dev.company.com` | `domain`| **bdlq_dev**
+| Sandbox  | **sbx**  | `payments-sbx.company.com` | `domain`| **bdlq_s07**
+| Playground  | **sbx**  | `payments-play.company.com` | `domain`| **bdlq_s05**
+| Staging  | **stg**  | `payments-stg.company.com` | `domain`| **bdlq_stg**
+| Production  | **prd**  | `payments-prd.company.com` | `domain`| **bdlq_prd**
 
 ### Run locally
 
